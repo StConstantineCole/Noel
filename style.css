@@ -301,28 +301,28 @@ h2 {
 }
 
 .sunnySide {
-  background-image: url(/images/SuunySide.jpg);
+  background-image: url(images/SuunySide.jpg);
   background-position: top;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .snap {
-  background-image: url(/images/snap.jpg);
+  background-image: url(images/snap.jpg);
   background-position: top;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .insure {
-  background-image: url(/images/insure.jpg);
+  background-image: url(images/insure.jpg);
   background-position: top;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .loop {
-  background-image: url(/images/loopStduios.jpg);
+  background-image: url(images/loopStduios.jpg);
   background-position: top;
   background-size: cover;
   background-repeat: no-repeat;
